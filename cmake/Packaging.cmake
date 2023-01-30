@@ -1,4 +1,4 @@
-set(CPACK_PACKAGE_NAME "async")
+set(CPACK_PACKAGE_NAME "bulk_server")
 set(CPACK_PACKAGE_VENDOR "Nikin Valentin")
 set(CPACK_PACKAGE_DESCRIPTION "Home work #10 (OTUS C++ DEVELOPER PROFESSIONAL)")
 set(CPACK_PACKAGE_CONTACT "nikin_valentin@mail.ru")
