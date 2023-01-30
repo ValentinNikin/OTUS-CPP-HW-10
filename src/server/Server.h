@@ -8,6 +8,10 @@
 #include "ConnectionManager.h"
 #include "IRequestHandlerFactory.h"
 
+/**
+ * За основу был взят Http-server, описанный в официальной документации boost
+ * https://www.boost.org/doc/libs/1_65_0/doc/html/boost_asio/example/cpp11/http/server/
+ */
 class Server {
 public:
     Server(const Server&) = delete;
